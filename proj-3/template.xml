@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>Revisions to Henry David Thoreau's manuscript of Walden</title>
-            <editor><!-- Replace this comment with a group member's name --></editor>
+            <editor>Abigail Henry</editor>
             <editor><!-- Replace this comment with a group member's name --></editor>
             <editor><!-- Replace this comment with a group member's name --></editor>
             <editor><!-- Replace this comment with a group member's name --></editor>
@@ -31,22 +31,25 @@
                </msContents>
             </msDesc>
             <bibl>
-            A page from HM 924, the manuscript of Walden, <!-- Replace with Chapter title, e.g. "Spring" -->, <!-- Replace with identifying number(s) of paragraph segement(s) included on this page  -->, <!-- Replace with version, e.g., Version A -->
+            A page from HM 924, the manuscript of Walden, The Ponds, <!-- Replace with identifying number(s) of paragraph segement(s) included on this page  -->, Version F
          </bibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <sourceDoc>
-      <surface xml:id="hm924v1n232"><!-- This is just an example. Replace the id with actual xml:id of your image. -->
-         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/232/full/full/0/default.jpg"/><!-- This is just an example. Replace the url with the actual url of your manuscript page. -->
+      <surface xml:id="hm924v6n1057">
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/1057/full/full/0/default.jpg"/>
             <zone>
                <note><!-- Replace this comment with a short note describing the page you're transcribing and how it relates to the story you're telling in TimelineJS about a revision or revisions to Walden. --></note>
-               <line>Transribe each line of text on the portion</line>
-               <line>of the page you choose to transcribe,</line>
-               <line>enclosing each line separately in an opening</line>
-               <line>and closing "line" tag, like what you see</line>
-               <line>here. Try to capture additions (insertions)</line>
-               <line>and deletions (cancellations). An example would be something like this: The mass of</line>
+               <line>which last appeared but mud-</line>
+               <line>dy in comparison.</line>
+               <line>It is <del rend="strikethrough">of</del> a vitreous greenish</line>
+               <line>blue, as I remember it, like those</line>
+               <line>patches of the winter sky seen through</line>
+               <line><add place="left of line">cloud</add> vistas in the west before sundown.</line>
+               <line>Yet a single glass of its water held</line>
+               <line>up to the light is <del rend="strikethrough">almost</del> as color</line>
+               <line>less as an equal quantity of air.</line>
                <line><del rend="strikethrough">mankind</del> <add place="above line"><handShift medium="pencil"/>men</add> lead lives of quiet desperation.</line>
                <line>Replace <add place="above line">the</add> words "strikethrough" and "above line"</line> 
                <line>with other terms of your own as appropriate.</line>
