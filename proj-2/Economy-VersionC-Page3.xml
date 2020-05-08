@@ -41,11 +41,11 @@
          <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/436/full/full/0/default.jpg"/>
             <zone>
                <note><!-- Replace this comment with a short note describing the page you're transcribing and how it relates to the story you're telling in TimelineJS about a revision or revisions to Walden. --></note>
-               <line>Transribe each line of text on the portion</line>
-               <line>of the page you choose to transcribe,</line>
-               <line>enclosing each line separately in an opening</line>
-               <line>and closing "line" tag, like what you see</line>
-               <line>here. Try to capture additions (insertions)</line>
+               <line>After all, always the first person</line>
+               <line>that is speaking. I should not talk</line>
+               <line>so much about myself if there were</line>
+               <line>anybody else whom I knew as well.</line>
+               <line>Unfortunately, I am <del rend="strikethrough">unluckily</del> confined to this</line>
                <line>Theme by the narrowness of my</line>
                <line>experience. <add place="above line"><handShift medium="pencil"/>Moreover</add> I <add place="above line"><handShift medium="pencil"/>for my own part</add> require of <del rend="strikethrough">a</del> <add place="above line"><handShift medium="pencil"/>every</add> writer </line>
                <line><del rend="strikethrough">that he give me</del> a simple and</line> 
