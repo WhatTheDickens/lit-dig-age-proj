@@ -8,7 +8,7 @@
          <titleStmt>
             <title>Revisions to Henry David Thoreau's manuscript of Walden</title>
             <editor>Abigail Henry</editor>
-            <editor><!-- Replace this comment with a group member's name --></editor>
+            <editor>Kira Baran</editor>
             <editor><!-- Replace this comment with a group member's name --></editor>
             <editor><!-- Replace this comment with a group member's name --></editor>
             <editor><!-- Replace this comment with a group member's name --></editor>
@@ -20,7 +20,7 @@
          <sourceDesc>
             <msDesc>
                <msIdentifier>
-                  <repository>Hungtington Library</repository>
+                  <repository>Huntington Library</repository>
                <idno>HM 924</idno>
                </msIdentifier>
                <msContents>
@@ -58,6 +58,18 @@
                <line>Walden water would be required</line>
                <line>to reflect a green tint I have</line>
                <line>never proved.</line>
+               <line>The water of <del rend="strikethrough">the</del> <add place= "above line">our</add> river is black, or</line>
+               <line>a very dark brown to one looking</line>
+               <line><add place="above line">directly</add> down on it, and <add place="above line">like</add> that of most</line>
+               <line>ponds, it imparts to the body of one</line>
+               <line><del rend="strikethrough">the</del> bathing <add place="above line">in it</add> a yellowish tinge, but</line>
+               <line>this water is of such crystalline purity</line>
+               <line>that the body of the bather ap-</line>
+               <line>pears of an alabaster or chalky </line>
+               <line>whiteness <del rend="strikethrough">equally</del> <add place="above line">still more</add> unnatural, which,</line>
+               <line>as the limbs are magnified and</line>
+               <line>distorted withal, produces a mon-</line>
+               <line>strous effect, making fit studies for a Michael Angelo.</line>
                <line><del rend="strikethrough">mankind</del> <add place="above line"><handShift medium="pencil"/>men</add> lead lives of quiet desperation.</line>
                <line>Replace <add place="above line">the</add> words "strikethrough" and "above line"</line> 
                <line>with other terms of your own as appropriate.</line>
