@@ -9,7 +9,7 @@
             <title>Revisions to Henry David Thoreau's manuscript of Walden</title>
             <editor>Claire Rogers</editor>
             <editor>Emma Raupp</editor>
-            <editor><!-- Replace this comment with a group member's name --></editor>
+            <editor>Anthony Guttilla</editor>
             <editor><!-- Replace this comment with a group member's name --></editor>
             <editor><!-- Replace this comment with a group member's name --></editor>
             <editor><!-- Replace this comment with a group member's name --></editor>
@@ -41,6 +41,16 @@
          <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/166/full/pct:100/0/default.jpg"/>
             <zone>
                <note><!-- Replace this comment with a short note describing the page you're transcribing and how it relates to the story you're telling in TimelineJS about a revision or revisions to Walden. --></note>
+          <line>with a <unclear cert="medium">handmade</unclear>handkerchief tied</line>
+          <line><unclear cert="high">about</unclear>it. <gap reason="illegible" />we are to <unclear cert="low">succeed</line>
+          <line>the <gap reason="illegible" />this <unclear cert="medium">charity</unclear>. Their <gap reason="illegible" /></line>
+          <line>a <gap reason="illegible" />which allowed them</line>
+          <line><gap reason="illegible" />themselves seems</line>
+          <line>their <unclear cert="high">least</unclear>disadvantage. Civi-</line>
+          <line>lization seems to make bright only</line>
+          <line>the superficial film of the eye. Most</line>
+          <line>men are wrecked upon their conscious-</line>
+          <line>ness.</line>
 	       <line>I had 3 chairs in my house -</line>               
 	       <line>1 for <unclear cert="low">solitude</unclear> - 2 for friends and</line>
 	       <line>3 - for society. When visitors came</line>
@@ -62,8 +72,43 @@ incomplete     <line><unclear cert="low">very</unclear> <unclear cert="medium">c
 	       <line><del rend="strikethrough in pencil"><unclear cert="high">be</unclear> somewhat</del> astonished, <del rend="hashes in pencil">if</del> is his
 
 
+            <note><!-- I'll fix this later, but from here down is a different page https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/144/full/pct:100/0/default.jpg --></note>
+          <line>thought of them twice. Every <unclear cert="medium">while</unclear></line>
+          <line><gap reason="illegible" /><uncrear cert="medium">needle</unclear>expanded and swelled</line>
+          <line>with <unclear cert="low">sympathy</unclear>- and befriended</line>
+          <line>me. I was <gap reason="illegible" />made a-</line>
+          <line>here of the presence of something</line>
+          <line><unclear cert="low">hindered to me</unclear>, even in <gap reason="illegible" />which</line>
+          <line>we <unclear cert="low">one<unclear>accustomed to call <unclear cert="low">amid</unclear>
+          <line>and dreary, and a <gap reason="illegible" />that</line>
+          <line>the <unclear cert="low">wearer</unclear>of <gap reason="illegible" />to me and</line>
+          <line><gap reason="illegible" />was <unclear cert="low">won</unclear>a <gap reason="illegible" /></line>
+          <line>a villager, that I thought <unclear cert="low">was</unclear></line>
+          <line>place could ever be strange</line<line>to me.</line>
+          <line>Yet I think that I love so-</line>
+          <line>ciety as much as most, and am</line>
+          <line>apt enough to fasten myself</line>
+          <line>like a bloodsucker for the time</line>
+          <line>to any full-blooded man that</line>
+          <line>comes in my way. I am nat-</line>
+          <line>no hermit- but should</line>
+          <line>probably sit out the sturdiest</line>
+          <line>frequenter of the bar-room, if</line>
+          <line>my business called me that</line>
+          <line>way.</line>
+          <line>What do we ask?</line>
+          <line>Some worthy task;</line>
+          <line>neber to run</line>
+          <line>till that be done,</line>
+          <line>that never done</line>
 
-	       <line>Transribe each line of text on the portion</line>
+
+            <note><!-- I'll fix this later, but from here down is a different page https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/144/full/pct:100/0/default.jpg --></note>
+          <line></line>
+
+
+
+               <line>Transribe each line of text on the portion</line>
                <line>of the page you choose to transcribe,</line>
                <line>enclosing each line separately in an opening</line>
                <line>and closing "line" tag, like what you see</line>
