@@ -37,10 +37,10 @@
             <zone>
                <note><!-- We are transcribing the changes to page 2 of "Solitude" from Version A of *Waleden* --></note>
                <line>rabbit, roam the fields and woods </line>
-               <line>without fear <del rend= "strikethrough">We associate wildness with the night and silence.</line>
-               <line>But the repose is never complete;</del></line>
+               <line>without fear<del rend= "strikethrough">We associate wildness with the night and silence.</del></line>
+               <line><del rend= "strikethrough">But the repose is never complete;</del></line>
                <line>nature has her watchmen who are</line>
-               <line> links connecting the days of ani-</line>
+               <line>links connecting the days of ani-</line>
                <line>mated life.</line>
             </zone>
             <zone>
@@ -50,16 +50,16 @@
                <line>quite at our elbows. The <add rend= "pencil">thick</add> wood is</line>
                <line>not just at my door, nor the</line>
                <line>pond, but somewhat is always</line>
-               <line>clearing,<add rend= "ink">and familiar and worn</line>
-               <line> by us</add> appropriated and fenced</line>
-               <line>in some way <del rend= "strikethrough">and familiar and worn by</line>
-               <line>us;</del> and reclaimed from Nature. For</line>
+               <line>clearing,<add rend= "ink">and familiar and worn</add></line>
+               <line><add rend= "ink">by us</add> appropriated and fenced</line>
+               <line>in some way <del rend= "strikethrough">and familiar and worn by</del></line>
+               <line><del rend= "strikethrough">us;</del> and reclaimed from Nature. For</line>
                <line>what reason have I this vast</line>
                <line>range and circuit, in nature—</line>
                <line>a square mile and more of un—</line>
                <line>frequented forest, for my privacy,</line>
-               <line>abandoned to me by men?<del rend= "strikethrough">Surely</line>
-               <line>we do not live crowded.</del>My</line>
+               <line>abandoned to me by men?<del rend= "strikethrough">Surely</del></line>
+               <line><del rend= "strikethrough">we do not live crowded.</del>My</line>
                <line>nearest neighbor is more than</line>
                <line>a mile distant, and no house is visible</line>
                <line>from <add rend= "pencil">any place but the hill-tops</add> within half a mile of my own.</line>
