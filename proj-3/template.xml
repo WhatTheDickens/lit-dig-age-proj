@@ -9,10 +9,6 @@
             <title>Revisions to Henry David Thoreau's manuscript of Walden</title>
             <editor>Abigail Henry</editor>
             <editor>Kira Baran</editor>
-            <editor><!-- Replace this comment with a group member's name --></editor>
-            <editor><!-- Replace this comment with a group member's name --></editor>
-            <editor><!-- Replace this comment with a group member's name --></editor>
-            <editor><!-- Replace this comment with a group member's name --></editor>
          </titleStmt>
          <publicationStmt>
             <p>Final Project for ENGL 340, Literature and Literary Study in the Digital Age, Spring 2020, SUNY Geneseo.</p>
@@ -60,7 +56,7 @@
                <line>never proved.</line>
                <line>The water of <del rend="strikethrough">the</del> <add place= "above line">our</add> river is black, or</line>
                <line>a very dark brown to one looking</line>
-               <line><add place="above line">directly</add> down on it, and <add place="above line">like</add> that of most</line>
+               <line><add place="above line">directly</add> down on it, and <add place="above line">like</add> <del rend="strikethrough">of</del> that of most</line>
                <line>ponds, it imparts to the body of one</line>
                <line><del rend="strikethrough">the</del> bathing <add place="above line">in it</add> a yellowish tinge, but</line>
                <line>this water is of such crystalline purity</line>
@@ -70,15 +66,6 @@
                <line>as the limbs are magnified and</line>
                <line>distorted withal, produces a mon-</line>
                <line>strous effect, making fit studies for a Michael Angelo.</line>
-               <line><del rend="strikethrough">mankind</del> <add place="above line"><handShift medium="pencil"/>men</add> lead lives of quiet desperation.</line>
-               <line>Replace <add place="above line">the</add> words "strikethrough" and "above line"</line> 
-               <line>with other terms of your own as appropriate.</line>
-               <line>Just be consistent. Use the handShift</line>
-               <line>element for insertions that are in pencil.</line>
-               <line>If they're in the same ink used for the</line>
-               <line>main text, you can omit this step. You're</line>
-               <line>sure to find this work very <unclear reason="illegible"></unclear></line>
-               <!-- Another thing you should know. Sometimes Thoreau draws a vertical line through an entire passage or even through a whole page. This kind of mark isn't a deletion. He does this to indicate to himself that he's carried the passage over to a subsequent draft or another part of the current draft. If you come across and example and want to encode it, the right way to do it is: <metamark function="used" rend="line" /> -->
             </zone>
          </surface>
    </sourceDoc>
