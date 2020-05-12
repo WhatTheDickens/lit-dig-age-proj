@@ -6,8 +6,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>My Practice TEI File for ENGL 340</title>
-            <editor><!-- Group 1 --></editor>
+            <title>Group 1 Final Project</title>
+            <editor>Group 1</editor>
+            <editor>Hannah Fahy</editor>
          </titleStmt>
          <publicationStmt>
             <p>Assignment for ENGL 340, SUNY Geneseo, Spring 2020</p>
@@ -26,7 +27,7 @@
                </msContents>
             </msDesc>
             <bibl>
-            A page from HM 924, the manuscript of Walden, <!-- "Solitude" -->, <!-- Page 2 -->, <!-- Changes in Version A -->
+            A page from HM 924, the manuscript of Walden, "Solitude," Page 2, Changes in Version A
          </bibl>
          </sourceDesc>
       </fileDesc>
@@ -35,34 +36,34 @@
       <surface xml:id="hm924v1n140">
          <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/140/full/full/0/default.jpg"/>
             <zone>
-               <note><!-- We are transcribing the changes to page 2 of "Solitude" from Version A of *Waleden* --></note>
+               <note>We are transcribing the changes to page 2 of "Solitude" from Version A of Waleden</note>
                <line>rabbit, roam the fields and woods </line>
-               <line>without fear<del rend= "strikethrough">We associate wildness with the night and silence.</del></line>
-               <line><del rend= "strikethrough">But the repose is never complete;</del></line>
+               <line>without fear<del rend="strikethrough">We associate wildness with the night and silence.</del></line>
+               <line><del rend="strikethrough">But the repose is never complete;</del></line>
                <line>nature has her watchmen who are</line>
                <line>links connecting the days of ani-</line>
                <line>mated life.</line>
             </zone>
             <zone>
-               <note><!-- In this version, paragraph two has not been written yet. It skips directly to what is eventually known as the third paragraph in this chapter --></note>
+               <note>In this version, paragraph two has not been written yet. It skips directly to what is eventually known as the third paragraph in this chapter</note>
                <line> There seems always to be sufficient</line>
                <line>space about us. Our horizon is never</line>
-               <line>quite at our elbows. The <add rend= "pencil">thick</add> wood is</line>
+               <line>quite at our elbows. The <add rend="pencil">thick</add> wood is</line>
                <line>not just at my door, nor the</line>
                <line>pond, but somewhat is always</line>
-               <line>clearing,<add rend= "ink">and familiar and worn</add></line>
-               <line><add rend= "ink">by us</add> appropriated and fenced</line>
-               <line>in some way <del rend= "strikethrough">and familiar and worn by</del></line>
-               <line><del rend= "strikethrough">us;</del> and reclaimed from Nature. For</line>
+               <line>clearing,<add rend="ink">and familiar and worn</add></line>
+               <line><add rend="ink">by us</add> appropriated and fenced</line>
+               <line>in some way <del rend="strikethrough">and familiar and worn by</del></line>
+               <line><del rend="strikethrough">us;</del> and reclaimed from Nature. For</line>
                <line>what reason have I this vast</line>
                <line>range and circuit, in nature—</line>
                <line>a square mile and more of un—</line>
                <line>frequented forest, for my privacy,</line>
-               <line>abandoned to me by men?<del rend= "strikethrough">Surely</del></line>
-               <line><del rend= "strikethrough">we do not live crowded.</del>My</line>
+               <line>abandoned to me by men?<del rend="strikethrough">Surely</del></line>
+               <line><del rend="strikethrough">we do not live crowded.</del>My</line>
                <line>nearest neighbor is more than</line>
                <line>a mile distant, and no house is visible</line>
-               <line>from <add rend= "pencil">any place but the hill-tops</add> within half a mile of my own.</line>
+               <line>from <add rend="pencil">any place but the hill-tops</add> within half a mile of my own.</line>
                <line>I have my horizon bounded by woods</line>
                <line>all to myself; I have a distant</line>
                <line>view of railroad where it</line>
