@@ -37,7 +37,7 @@
       <surface xml:id="hm924v1n166">
          <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/166/full/pct:100/0/default.jpg"/>
             <zone>
-               <note><!-- This page includes the beginning of Version A's paragraph two of "Visitors," establishing both strong sentences that stuck all the way through to the final version "I had three chairs..." and a heavily edited sentence at the end that similarly made it into the final draft in a relatively similar form to its revised existence in A. --></note>
+               <note>This page includes the beginning of Version A's paragraph two of "Visitors," establishing both strong sentences that stuck all the way through to the final version "I had three chairs..." and a heavily edited sentence at the end that similarly made it into the final draft in a relatively similar form to its revised existence in A.</note>
                <line>with a <unclear cert="medium">handmade</unclear>handkerchief tied</line>
                <line><unclear cert="high">about</unclear>it. <gap reason="illegible" />we are to <unclear cert="low">succeed</unclear></line>
                <line>the <gap reason="illegible" />this <unclear cert="medium">charity</unclear>. Their <gap reason="illegible" /></line>
@@ -58,14 +58,14 @@
 	       <line>something how many great men</line>
 	       <line>and women a small house will</line>
 	       <line>contain. I had had 25 or 30</line>
-	       <line>souls and <add place="above line, pencil, prior word in parentheses">with their</add> bodies <unclear cert="medium">at one</unclear> under</line>
+	       <line>souls and <add place="above line, pencil, prior word in parentheses">with their</add><handShift medium="ink" /> bodies <unclear cert="medium">at one</unclear> under</line>
 	       <line>my roof - and yet so often parted</line>
 	       <line>without being aware that we had</line>
-	       <line>come very near to one another. <add place="above line, pencil, carrot"><unclear cert="low">Many</unclear> of</add> <unclear cert="low">the houses</unclear></line>
-	       <line><del rend="strikethrough in pencil">generally</del> with their <handShift medium="pencil"><add place="above line, carrot"><unclear cert="low">immense</unclear> apartments, their</add></handShift> huge halls and</line>
-	       <line><del rend="strikethrough in pencil">garrets</del> and cellars, <handShift medium="pencil"><add place="above line, carrot">for the image of wines and <gap reason="illegible" />is<gap reason="illegible" /> of hence</add></handShift> seem <unclear cert="low">to me ex-</unclear></line>
+	       <line>come very near to one another. <handShift medium="pencil" /><add place="above line, carrot"><unclear cert="low">Many</unclear> of</add><handShift medium="ink" /> <unclear cert="low">the houses</unclear></line>
+	       <line><del rend="strikethrough in pencil">generally</del> with their <handShift medium="pencil" /><add place="above line, carrot"><unclear cert="low">immense</unclear> apartments, their</add><handShift medium="ink" /> huge halls and</line>
+	       <line><del rend="strikethrough in pencil">garrets</del> and cellars, <handShift medium="pencil" /><add place="above line, carrot">for the image of wines and <gap reason="illegible" />is<gap reason="illegible" /> of hence</add><handShift medium="ink" /> seem <unclear cert="low">to me ex-</unclear></line>
 	       <line>travagantly large for their in-</line>
-               <line><unclear cert="medium">habitants</unclear> <handShift medium="pencil"><add place="above line, carrot">they are <gap reason="illegible" />and<gap reason="illegible" />that the<gap reason="illegible" />are<gap reason="illegible" />them<gap reason="illegible" /><unclear cert="low">frequently</unclear><gap reason="illegible" />vermin that<gap reason="illegible" />therein</add>(</handShift>.<del rend="strikeout in pencil"><note><!--Left bracket and strikethrough are present in rust-coloured colored pencil or grease pencil, most likely from Franklin Sanborn after Thoreau's death--></note><unclear cert="low">One would</unclear> certainly</del></line>
+               <line><unclear cert="medium">habitants</unclear> <handShift medium="pencil" /><add place="above line, carrot">they are <gap reason="illegible" />and<gap reason="illegible" />that the<gap reason="illegible" />are<gap reason="illegible" />them<gap reason="illegible" /><unclear cert="low">frequently</unclear><gap reason="illegible" />vermin that<gap reason="illegible" />therein</add>(<handShift medium="ink" />.<del rend="strikeout in pencil"><note><!--Left bracket and strikethrough are present in rust-coloured colored pencil or grease pencil, most likely from Franklin Sanborn after Thoreau's death--></note><unclear cert="low">One would</unclear> certainly</del></line>
 	       <line><del rend="strikethrough in pencil"><unclear cert="high">be</unclear> somewhat</del> astonished, <del rend="hashes in pencil">if</del> is his</line>
             </zone>
          </surface>
