@@ -7,7 +7,8 @@
       <fileDesc>
          <titleStmt>
             <title>Revisions to Henry David Thoreau's manuscript of Walden</title>
-            <editor><!-- Maeve Morley, Christina Interlichia --></editor>
+            <editor>Maeve Morley</editor>
+            <editor>Christina Interlichia</editor>
                   </titleStmt>
          <publicationStmt>
             <p>Final Project for ENGL 340, Literature and Literary Study in the Digital Age, Spring 2020, SUNY Geneseo.</p>
@@ -35,7 +36,7 @@
       <surface xml:id="hm924v2n395">
          <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/395/full/full/0/default.jpg"/>
             <zone>
-               <note><!-- We are transcribing the passages Thoreau added in his manuscript of Version B that weren't there previously in Version A. --></note>
+               <note> Our group has decided to focus on the paragraphs 5b to 10 that Thoreau added from Version A to B. Here, we are specifically transcribing part of paragraph 5b and 6. The last part of 5b is at the top of the page and the entirety of paragraph 6 continues to the bottom of the page.</note>
                <line>accumulated<add><handShift medium="ink"/>what is called</add> "a handsome property", <add><handShift medium="ink"/>though I never got a fair view of it</add> ,on</line>
                <line>the Walden road driving a pair</line>
                <line>of cattle to market, who inquired</line>
@@ -50,7 +51,7 @@
                <line>which place he would reach some time</line>
                <line>in the morning.</line>
                <line><del rend="strikethrough">The life of the spirit</del> <add place="above line">awakening of coming to life to a dead man</add> makes</line>
-               <line>indifferent all times <add place="in green above the line">p. 210</add> and places</line>
+               <line>indifferent all times <note> "p. 210" is added slightly above the line in green ink</note> and places</line>
                <line><add>The <del rend="strikethrough">That </del></add> place where <add place="above line">that may occur</add> <del rend="strikethrough"> <unclear cert="low">He sees</unclear></del> is</line>
                <line>always the same and indescribably</line>
                <line>pleasant of all our senses. <add place="above the line">For the most part</add> we <del rend="strikethrough">had</del></line>
