@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Revisions to Henry David Thoreau's manuscript of Walden</title>
+            <editor>Claire Rogers</editor>
+            <editor>Emma Raupp</editor>
+            <editor>Anthony Guttilla</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Final Project for ENGL 340, Literature and Literary Study in the Digital Age, Spring 2020, SUNY Geneseo.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Hungtington Library</repository>
+               <idno>HM 924</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <author>Henry David Thoreau</author>
+                     <title>Walden</title>
+                  </msItem>
+               </msContents>
+            </msDesc>
+            <bibl>
+            A page from HM 924, the manuscript of Walden, "Visitors", Paragraph 2, Version A
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <sourceDoc>
+      <surface xml:id="hm924v1n166">
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/166/full/pct:100/0/default.jpg"/>
+            <zone>
+               <note><!-- This page includes the beginning of Version A's paragraph two of "Visitors," establishing both strong sentences that stuck all the way through to the final version "I had three chairs..." and a heavily edited sentence at the end that similarly made it into the final draft in a relatively similar form to its revised existence in A. --></note>
+               <line>with a <unclear cert="medium">handmade</unclear>handkerchief tied</line>
+               <line><unclear cert="high">about</unclear>it. <gap reason="illegible" />we are to <unclear cert="low">succeed</unclear></line>
+               <line>the <gap reason="illegible" />this <unclear cert="medium">charity</unclear>. Their <gap reason="illegible" /></line>
+               <line>a <gap reason="illegible" />which allowed them</line>
+               <line><gap reason="illegible" />themselves seems</line>
+               <line>their <unclear cert="high">least</unclear>disadvantage. Civi-</line>
+               <line>lization seems to make bright only</line>
+               <line>the superficial film of the eye. Most</line>
+               <line>men are wrecked upon their conscious-</line>
+	       <line>ness.</line>
+               <line>I had 3 chairs in my house -</line>               
+	       <line>1 for <unclear cert="low">solitude</unclear> - 2 for friends and</line>
+	       <line>3 - for society. When visitors came</line>
+	       <line>in larger and unexpected numbers</line>
+	       <line>there was but the <unclear cert="medium">3d</unclear> for them</line>
+	       <line>all - but they generally economised</line>
+	       <line>the room by standing up. <gap reason="illegible" /> -</line>
+	       <line>something how many great men</line>
+	       <line>and women a small house will</line>
+	       <line>contain. I had had 25 or 30</line>
+	       <line>souls and <add place="above line, pencil, prior word in parentheses">with their</add> bodies <unclear cert="medium">at one</unclear> under</line>
+	       <line>my roof - and yet so often parted</line>
+	       <line>without being aware that we had</line>
+	       <line>come very near to one another. <add place="above line, pencil, carrot"><unclear cert="low">Many</unclear> of</add> <unclear cert="low">the houses</unclear></line>
+	       <line><del rend="strikethrough in pencil">generally</del> with their <handShift medium="pencil"><add place="above line, carrot"><unclear cert="low">immense</unclear> apartments, their</add></handShift> huge halls and</line>
+	       <line><del rend="strikethrough in pencil">garrets</del> and cellars, <handShift medium="pencil"><add place="above line, carrot">for the image of wines and <gap reason="illegible" />is<gap reason="illegible" /> of hence</add></handShift> seem <unclear cert="low">to me ex-</unclear></line>
+	       <line>travagantly large for their in-</line>
+               <line><unclear cert="medium">habitants</unclear> <handShift medium="pencil"><add place="above line, carrot">they are <gap reason="illegible" />and<gap reason="illegible" />that the<gap reason="illegible" />are<gap reason="illegible" />them<gap reason="illegible" /><unclear cert="low">frequently</unclear><gap reason="illegible" />vermin that<gap reason="illegible" />therein</add>(</handShift>.<del rend="strikeout in pencil"><note><!--Left bracket and strikethrough are present in rust-coloured colored pencil or grease pencil, most likely from Franklin Sanborn after Thoreau's death--></note><unclear cert="low">One would</unclear> certainly</del></line>
+	       <line><del rend="strikethrough in pencil"><unclear cert="high">be</unclear> somewhat</del> astonished, <del rend="hashes in pencil">if</del> is his</line>
+
+
+            <note><!-- I'll fix this later, but from here down is a different page https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/144/full/pct:100/0/default.jpg --></note>
+          <line>thought of them twice. Every <unclear cert="medium">while</unclear></line>
+          <line><gap reason="illegible" /><uncrear cert="medium">needle</unclear>expanded and swelled</line>
+          <line>with <unclear cert="low">sympathy</unclear>- and befriended</line>
+          <line>me. I was <gap reason="illegible" />made a-</line>
+          <line>here of the presence of something</line>
+          <line><unclear cert="low">hindered to me</unclear>, even in <gap reason="illegible" />which</line>
+          <line>we <unclear cert="low">one<unclear>accustomed to call <unclear cert="low">amid</unclear>
+          <line>and dreary, and a <gap reason="illegible" />that</line>
+          <line>the <unclear cert="low">wearer</unclear>of <gap reason="illegible" />to me and</line>
+          <line><gap reason="illegible" />was <unclear cert="low">won</unclear>a <gap reason="illegible" /></line>
+          <line>a villager, that I thought <unclear cert="low">was</unclear></line>
+          <line>place could ever be strange</line<line>to me.</line>
+          <line>Yet I think that I love so-</line>
+          <line>ciety as much as most, and am</line>
+          <line>apt enough to fasten myself</line>
+          <line>like a bloodsucker for the time</line>
+          <line>to any full-blooded man that</line>
+          <line>comes in my way. I am nat-</line>
+          <line>no hermit- but should</line>
+          <line>probably sit out the sturdiest</line>
+          <line>frequenter of the bar-room, if</line>
+          <line>my business called me that</line>
+          <line>way.</line>
+          <line>What do we ask?</line>
+          <line>Some worthy task;</line>
+          <line>neber to run</line>
+          <line>till that be done,</line>
+          <line>that never done</line>
+
+
+            <note><!-- I'll fix this later, but from here down is a different page https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/144/full/pct:100/0/default.jpg --></note>
+          <line></line>
+
+
+
+               <line>Transribe each line of text on the portion</line>
+               <line>of the page you choose to transcribe,</line>
+               <line>enclosing each line separately in an opening</line>
+               <line>and closing "line" tag, like what you see</line>
+               <line>here. Try to capture additions (insertions)</line>
+               <line>and deletions (cancellations). An example would be something like this: The mass of</line>
+               <line><del rend="strikethrough">mankind</del> <add place="above line"><handShift medium="pencil"/>men</add> lead lives of quiet desperation.</line>
+               <line>Replace <add place="above line">the</add> words "strikethrough" and "above line"</line> 
+               <line>with other terms of your own as appropriate.</line>
+               <line>Just be consistent. Use the handShift</line>
+               <line>element for insertions that are in pencil.</line>
+               <line>If they're in the same ink used for the</line>
+               <line>main text, you can omit this step. You're</line>
+               <line>sure to find this work very <unclear reason="illegible"></unclear></line>
+               <!-- Another thing you should know. Sometimes Thoreau draws a vertical line through an entire passage or even through a whole page. This kind of mark isn't a deletion. He does this to indicate to himself that he's carried the passage over to a subsequent draft or another part of the current draft. If you come across and example and want to encode it, the right way to do it is: <metamark function="used" rend="line" /> -->
+            </zone>
+         </surface>
+   </sourceDoc>
+</TEI>
